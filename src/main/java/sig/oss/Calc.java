@@ -14,4 +14,8 @@ public class Calc{
 		r += x;
 	}
 		
+	public void dec(int x){ //dec
+		r -= x;
+	}
+	
 }
