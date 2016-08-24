@@ -9,7 +9,7 @@ public class Calc{
 	public int mul(int x, int y){ //mul method 2
 		return x*y;
 	}
-	public int dec(int x){ //dec
+	public void dec(int x){ //dec
 		r -= x;
 	}
 	
